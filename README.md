@@ -40,7 +40,7 @@ An interactive digital whiteboard with hand gesture controls, built with React, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/wolf-whiteboard.git
+   git clone https://github.com/Qadirdad-Kazi/Mirror_WhiteBoard
    cd wolf-whiteboard
    ```
 
